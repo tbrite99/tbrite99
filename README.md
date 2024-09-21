@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... anything
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... id nevre thought id be a programmer
+- ⚡ Fun fact: ... id never thought id be a programmer
 
 <!---
 tbrite99/tbrite99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
